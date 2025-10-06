@@ -1,4 +1,4 @@
-# 🎮 Reverse Typing Game (Turkish)
+# Reverse Typing Game (Turkish)
 
 Türkçe kelimeleri **ters yazarak refleksini ve dikkatini test et!**  
 Flask tabanlı bu mini web oyunu, kolay – orta – zor olmak üzere üç farklı zorluk seviyesiyle 60 saniyelik bir hız testi sunar.  
